@@ -1,2 +1,2 @@
 # cioos-data-explorer
-Home of the documentation and Wiki for the CIOOS Data Explorer
+Home of the CIOOS Data Explorer [documentation wiki](https://github.com/HakaiInstitute/cioos-data-explorer/wiki)
